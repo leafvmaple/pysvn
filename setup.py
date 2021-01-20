@@ -7,7 +7,7 @@ with open("README.md", "r") as fh:
 
 setup(
     name="pysvn",
-    version="0.0.2",
+    version="0.1.0",
     keywords=["svn", "pysvn"],
     description="Svn for python.",
     long_description=long_description,
