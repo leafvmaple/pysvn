@@ -3,5 +3,5 @@ from pysvn.client import Client
 name = "pysvn"
 
 __doc__ = """
-Svn for python.
+A Python package that can operate svn, provide log, diff, numstat operation.
 """
